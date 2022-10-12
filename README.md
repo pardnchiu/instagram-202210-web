@@ -18,8 +18,8 @@
 
 | Preview |
 | - |
-| ![1](./preview/1.png) |
-| ![2](./preview/2.png) |
-| ![3](./preview/3.png) |
-| ![4](./preview/4.png) |
-| ![5](./preview/5.png) |
+| ![1](preview/1.png) |
+| ![2](preview/2.png) |
+| ![3](preview/3.png) |
+| ![4](preview/4.png) |
+| ![5](preview/5.png) |
