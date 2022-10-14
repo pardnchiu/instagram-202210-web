@@ -16,10 +16,12 @@
 
 ***
 
-| Preview |
-| - |
-| ![1](preview/1.jpg) |
-| ![2](preview/2.jpg) |
-| ![3](preview/3.jpg) |
-| ![4](preview/4.jpg) |
-| ![5](preview/5.jpg) |
+| Instagram (2022/10/15) | Sample |
+| - | - |
+| ![1](preview/instagram1.png) | ![1](preview/sample1.png) |
+| ![2](preview/instagram2.png) | ![2](preview/sample2.png) |
+| ![3](preview/instagram3.png) | ![3](preview/sample3.png) |
+| ![4](preview/instagram4.png) | ![4](preview/sample4.png) |
+| ![5](preview/instagram5.png) | ![5](preview/sample5.png) |
+| ![5](preview/instagram6.png) | ![5](preview/sample6.png) |
+ 
