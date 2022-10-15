@@ -23,5 +23,6 @@
 | ![3](preview/instagram3.png) | ![3](preview/sample3.png) |
 | ![4](preview/instagram4.png) | ![4](preview/sample4.png) |
 | ![5](preview/instagram5.png) | ![5](preview/sample5.png) |
-| ![5](preview/instagram6.png) | ![5](preview/sample6.png) |
+| ![6](preview/instagram6.png) | ![6](preview/sample6.png) |
+| ![7](preview/instagram7.png) | ![7](preview/sample7.png) |
  
