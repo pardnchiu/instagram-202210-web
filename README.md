@@ -1,6 +1,4 @@
-
-*進行中，尚未完成*
-*完成全部畫面後才會著手調整響應式*
+*當前僅保證適配寬度1024以上，抽空著手調整手機版*
 
 - 預覽: [Page](https://pardnchiu.github.io/website-template-instagram)
 - 源碼: [Github](https://github.com/pardnchiu/website-template-instagram)
