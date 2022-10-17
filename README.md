@@ -1,8 +1,8 @@
 *當前僅保證適配寬度1024以上，抽空著手調整手機版*
 
-- 預覽: [Page](https://pardnchiu.github.io/website-template-instagram)
-- 源碼: [Github](https://github.com/pardnchiu/website-template-instagram)
-- 授權: [MIT LICENSE](https://github.com/....../website....../blob/main/LICENSE)
+- 預覽: [Page](https://pardnchiu.github.io/instagram-template-202210)
+- 源碼: [Github](https://github.com/pardnchiu/instagram-template-202210)
+- 授權: [MIT LICENSE](https://github.com/pardnchiu/instagram-template-202210/blob/main/LICENSE)
 - 工具: Html, Css/Sass, Javascript
 - 開發: [Pardn Chiu](mailto:chiuchingwei@icloud.com)
   
