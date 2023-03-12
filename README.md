@@ -2,17 +2,21 @@
 
 *介面為 2022/10 版本*
 
-- 預覽: [Github.io](https://pardnchiu.github.io/instagram-template-202210/)
-- 源碼: [Github.page](https://github.com/pardnchiu/instagram-template-202210/)
-- 授權: [MIT LICENSE](https://github.com/pardnchiu/instagram-template-202210/blob/main/LICENSE)
-- 開發: [Pardn Chiu 邱敬幃](https://pardnchiu.github.io/)
-  
+- [Github.io](https://pardnchiu.github.io/instagram-template-202210/)
+- [Github.com](https://github.com/pardnchiu/instagram-template-202210/)
+- [MIT LICENSE](./LICENSE)
+- Html, Css/Sass, Javascript
+- [Wiki](https://zh.m.wikipedia.org/zh-tw/File:Instagram_logo.svg)
+- [Font Awesome 5](https://fontawesome.com/v5/search)
+- [Userpics](https://userpics.craftwork.design)
+
 ***
 
-- 工具: Html, Css/Sass, Javascript
-- LOGO: [Wiki](https://zh.m.wikipedia.org/zh-tw/File:Instagram_logo.svg)
-- 圖示: [Font Awesome 5](https://fontawesome.com)
-- 頭像: [Userpics](https://userpics.craftwork.design)
+### Pardn Chiu 邱敬幃
+
+- [Joball](https://joball.tw/@pardnltd)
+- [Linkedin](https://www.linkedin.com/in/pardnchiu/)
+- [Line@](http://lin.ee/Gtcb5kc)
 
 ***
 
@@ -34,4 +38,8 @@
 | ![6](image/preview/instagram6.png) | ![6](image/preview/sample6.png) |
 | 訊息 | 訊息 |
 | ![7](image/preview/instagram7.png) | ![7](image/preview/sample7.png) |
- 
+
+***
+
+Copyright (c) 2022 [Pardn Ltd 帕登國際有限公司](https://joball.tw/@pardnltd)
+
