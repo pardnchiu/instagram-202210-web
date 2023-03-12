@@ -1,4 +1,4 @@
-# Instagram 範例
+# Instagram Template 仿製模板
 
 *介面為 2022/10 版本*
 
@@ -42,4 +42,3 @@
 ***
 
 Copyright (c) 2022 [Pardn Ltd 帕登國際有限公司](https://joball.tw/@pardnltd)
-
