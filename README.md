@@ -1,43 +1,36 @@
-# Instagram Template 仿製模板
-
-*介面為 2022/10 版本*
-
-- [Github.io](https://pardnchiu.github.io/instagram-template-202210/)
-- [Github.com](https://github.com/pardnchiu/instagram-template-202210/)
-- [MIT LICENSE](./LICENSE)
-- Html, Css/Sass, Javascript
-- [Wiki](https://zh.m.wikipedia.org/zh-tw/File:Instagram_logo.svg)
-- [Font Awesome 5](https://fontawesome.com/v5/search)
-- [Userpics](https://userpics.craftwork.design)
+![Instagram 仿製 (Web) - Pardn Chiu 邱敬幃](./image/2-1.jpg)
 
 ***
 
-### Pardn Chiu 邱敬幃
+# Instagram 仿製 (Web)
 
-- [Joball](https://joball.tw/@pardnltd)
-- [Linkedin](https://www.linkedin.com/in/pardnchiu/)
-- [Line@](http://lin.ee/Gtcb5kc)
+- 介面為 2022/10 版本
+- Html, Css / Sass, Javascript, [LOGO](https://zh.m.wikipedia.org/zh-tw/File:Instagram_logo.svg), [Font Awesome 5](https://fontawesome.com/v5/search), [Userpics](https://userpics.craftwork.design)
+- Pardn Chiu 邱敬幃
+- [https://joball.tw/@pardnltd](https://joball.tw/@pardnltd)
+- [https://www.linkedin.com/in/pardnchiu](https://www.linkedin.com/in/pardnchiu)
+- [http://lin.ee/Gtcb5kc](http://lin.ee/Gtcb5kc)
 
 ***
 
 | Instagram | Sample |
 | :-: | :-: |
 |  首頁 |  首頁 |
-| ![1](image/preview/instagram1.png) | ![1](image/preview/sample1.png) |
+| ![](image/preview/instagram1.png) | ![Instagram 仿製 (Web) - Pardn Chiu 邱敬幃](image/preview/sample1.png) |
 | 限時動態 | 限時動態 |
-| ![7](image/preview/instagram8.png) | ![7](image/preview/sample8.png) |
+| ![](image/preview/instagram8.png) | ![Instagram 仿製 (Web) - Pardn Chiu 邱敬幃](image/preview/sample8.png) |
 | 搜尋 | 搜尋 |
-| ![2](image/preview/instagram2.png) | ![2](image/preview/sample2.png) |
+| ![](image/preview/instagram2.png) | ![Instagram 仿製 (Web) - Pardn Chiu 邱敬幃](image/preview/sample2.png) |
 | 通知 |  通知 |
-| ![3](image/preview/instagram3.png) | ![3](image/preview/sample3.png) |
+| ![](image/preview/instagram3.png) | ![Instagram 仿製 (Web) - Pardn Chiu 邱敬幃](image/preview/sample3.png) |
 | 個人頁 | 個人頁 |
-| ![4](image/preview/instagram4.png) | ![4](image/preview/sample4.png) |
+| ![](image/preview/instagram4.png) | ![Instagram 仿製 (Web) - Pardn Chiu 邱敬幃](image/preview/sample4.png) |
 | 彈出式貼文 | 彈出式貼文 |
-| ![5](image/preview/instagram5.png) | ![5](image/preview/sample5.png) |
+| ![](image/preview/instagram5.png) | ![Instagram 仿製 (Web) - Pardn Chiu 邱敬幃](image/preview/sample5.png) |
 | 單頁貼文 | 單頁貼文 |
-| ![6](image/preview/instagram6.png) | ![6](image/preview/sample6.png) |
+| ![](image/preview/instagram6.png) | ![Instagram 仿製 (Web) - Pardn Chiu 邱敬幃](image/preview/sample6.png) |
 | 訊息 | 訊息 |
-| ![7](image/preview/instagram7.png) | ![7](image/preview/sample7.png) |
+| ![](image/preview/instagram7.png) | ![Instagram 仿製 (Web) - Pardn Chiu 邱敬幃](image/preview/sample7.png) |
 
 ***
 
